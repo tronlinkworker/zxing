@@ -19,11 +19,5 @@
       <version>1.3.61</version>
       <scope>compile</scope>
     </dependency>
-    <dependency>
-      <groupId>NBZxing</groupId>
-      <artifactId>zxing_scale</artifactId>
-      <version>unspecified</version>
-      <scope>compile</scope>
-    </dependency>
   </dependencies>
 </project>
